@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
-  <a href="telegram-URL">
+  <a href="[telegram-URL](https://t.me/Sinnnka)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="https://t.me/Sinnnka"/>
   </a>
   <a href="VK-URL">
