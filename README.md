@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=sinka-ai&style=flat-square&color=blue" alt=""/>
   
   <h1>
-  Привет Всем! <img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" width = 30 alt =""/>
+  Привет Всем! <img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" width = 60 alt =""/>
 </h1>
 </div>
 
