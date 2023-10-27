@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://64.media.tumblr.com/d3177c36a0727204b4ee8f9ce7174bde/tumblr_pqsmno6ha11rn5gv3o1_400.gif" width="600" height="300"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmakiplays-retrowave-retro-synthwave-80s-gif-20615746&psig=AOvVaw2kY7L1qUCPaaDU_7kAMJGy&ust=1698523293148000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKj5kb6Cl4IDFQAAAAAdAAAAABAJ" width="600" height="300"/>
 </div>
 
 
