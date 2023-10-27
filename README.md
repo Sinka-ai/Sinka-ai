@@ -13,8 +13,9 @@
   
   <h1>
   Привет Всем!
+    <img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" width = 30 alt =""/>
 </h1>
-<img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" width = 30 alt =""/>
+
 </div>
 
 
