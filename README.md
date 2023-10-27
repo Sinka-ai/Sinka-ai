@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sinka-ai&style=flat-square&color=blue" width = "600" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sinka-ai&style=flat-square&color=blue" alt=""/>
   <img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" alt =""/>
   <h1>
   Привет Всем! 
