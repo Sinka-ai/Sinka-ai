@@ -16,9 +16,8 @@
     <img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" width = 30 alt =""/>
 </h1>
 </div>
-<div align="center">
+
   <img src="https://media.tenor.com/UiX3cAoTV8YAAAAd/retrowave.gif" width="600" height="300"/>
-</div>
 
 
 
