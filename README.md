@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=sinka-ai&style=flat-square&color=blue" alt=""/>
-  <img src="https://64.media.tumblr.com/d3177c36a0727204b4ee8f9ce7174bde/tumblr_pqsmno6ha11rn5gv3o1_400.gif" alt =""/>
+  <img src="https://komarev.com/ghpvc/?username=sinka-ai&style=flat-square&color=blue" width = "600" alt=""/>
+  <img src="https://github.com/fringer2423/Fringer2423/raw/main/assets/wave.gif" alt =""/>
   <h1>
   Привет Всем! 
 </h1>
