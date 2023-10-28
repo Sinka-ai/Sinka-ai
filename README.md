@@ -42,7 +42,7 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 
 
-## ⚙️ GitHub Аналитика
+## ⚙️ Моя аналитика на GitHub
 
 <p align="center">
   <a href="https://github.com/Sinka-ai">
@@ -55,7 +55,7 @@
 
 ## 📮 Как со мной связаться
 
-- **Email:** [ВАШ_EMAIL@example.com](mailto:ВАШ_EMAIL@example.com)
+- **Email:** savvafleur@gmail.com
 - **Telegram:** @ВАШ_ТЕЛЕГРАМ_НИКНЕЙМ
 
 <!--
