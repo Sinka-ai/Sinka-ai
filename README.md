@@ -56,7 +56,7 @@
 ## 📮 Как со мной связаться
 
 - **Email:** savvafleur@gmail.com
-- **Telegram:** <a href="https://t.me/@Sinnnka">Sinnnka</a>
+- **Telegram:** <a href="https://t.me/Sinnnka">@Sinnnka</a>
 
 
 <!--
