@@ -20,27 +20,32 @@
 
 ## 🤖 О себе
 
-🔍 **Имя:** Савва  
-📚 **Профессия:** Начинающий дата сайнтист  
-🎯 **Цель:** Я стремлюсь к постоянному росту и развитию в области анализа данных и машинного обучения.  
-🕰️ **Интересы:** В свободное время люблю изучать новые инструменты и методы анализа данных.  
-💌 **Контакты:** Для обратной связи и вопросов, пожалуйста, свяжитесь со мной через гитхаб.
+🔍 **Имя:** Савва Уханов   
+<br>📚  В данный момент я учусь на первом курсе, но не собираюсь ждать несколько лет только для того, чтобы потом устроиться на работу. Хочу получать классный опыт и реализовываться уже сейчас!  
+<br>🎯  Для меня смысл жизни - постоянное развитие, я не собираюсь "просто плыть по течению"  
+<br>🕰️  В свободное время люблю изучать новые инструменты и методы анализа данных, а особенно погружаться глубже  в машинное обучение.  
+<br>💌  Для обратной связи и вопросов, пожалуйста, свяжитесь со мной через телеграмм или через почту. Буду ждать!
 
 ## 🔧 Технический стек
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-1967BE?logo=matplotlib&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white) 
+![С++](https://img.shields.io/badge/-С++-3776AB?logo=cpp&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-3776AB?logo=Java&logoColor=white) 
+![Pandas](https://img.shields.io/badge/-Pandas-3776AB?logo=pandas&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?logo=seaborn&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?logo=scikit-learn&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) 
-![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) 
-![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-3776AB?logo=scikit-learn&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-3776AB?logo=postgresql&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-3776AB?logo=jupyter&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-3776AB?logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/-Keras-3776AB?logo=keras&logoColor=white) 
+![PySpark](https://img.shields.io/badge/-PySpark-3776AB?logo=apache-spark&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-3776AB?logo=JavaScript&logoColor=white) 
 
+## 📮 Как со мной связаться
+
+- **Email:** savvafleur@gmail.com
+- **Telegram:** <a href="https://t.me/Sinnnka">@Sinnnka</a>
 
 ## ⚙️ Моя аналитика на GitHub
 
@@ -53,10 +58,12 @@
   </a>
 </p>
 
-## 📮 Как со мной связаться
+<p align="center">
+  <a href="https://github.com/Sinka-ai">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sinka-ai&theme=radical" alt="Ваши последовательные контрибьюции" width="480" />
+  </a>
+</p>
 
-- **Email:** savvafleur@gmail.com
-- **Telegram:** <a href="https://t.me/Sinnnka">@Sinnnka</a>
 
 
 <!--
