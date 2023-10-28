@@ -56,7 +56,8 @@
 ## 📮 Как со мной связаться
 
 - **Email:** savvafleur@gmail.com
-- **Telegram:** @ВАШ_ТЕЛЕГРАМ_НИКНЕЙМ
+- **Telegram:** <a href="(https://t.me/Sinnnka)">"Sinnnka</a>
+
 
 <!--
 **Sinka-ai/Sinka-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
