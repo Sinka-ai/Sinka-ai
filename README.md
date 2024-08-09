@@ -51,11 +51,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <a href="https://github.com/Sinka-ai">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sinka-ai&theme=radical" alt="Your Contribution Streak" width="480" />
-  </a>
-</p>
 
 
 
