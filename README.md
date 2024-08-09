@@ -49,14 +49,7 @@
 
 ## ⚙️ My GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Sinka-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sinka-ai&show_icons=true&theme=radical" alt="Your GitHub Stats" width="480" />
-  </a>
-  <a href="https://github.com/Sinka-ai">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sinka-ai&theme=radical&layout=compact" alt="Your Most Used Languages" width="320" />
-  </a>
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <a href="https://github.com/Sinka-ai">
