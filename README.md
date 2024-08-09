@@ -18,10 +18,10 @@
 
   <img src="https://media.tenor.com/UiX3cAoTV8YAAAAd/retrowave.gif" width="600" height="300"/>
 
-## 🤖 About Me
+##  About Me
 
 🔍 **Name:** Savva Ukhanov  
-<br>📚 Currently, I am a first-year student, but I don't plan to wait several years just to get a job later. I want to gain valuable experience and start realizing my potential right now!  
+<br>📚 Currently, I am a second-year student, but I don't plan to wait several years just to get a job later. I want to gain valuable experience and start realizing my potential right now!  
 <br>🎯 To me, the meaning of life is constant development. I don't intend to "just go with the flow".  
 <br>🕰️ In my free time, I love exploring new tools and methods for data analysis, especially diving deeper into machine learning.  
 <br>💌 For feedback and inquiries, please contact me via Telegram or email. I look forward to hearing from you!
